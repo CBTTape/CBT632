@@ -1,0 +1,12 @@
+2023-08-06 06:09:45.739026 - Initialized conversion of CBT632
+2023-08-06 06:09:45.818230 - Received CBT.V505.FILE632.PDS from FILE632.XMI 
+2023-08-06 06:09:45.820841 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:09:45.821999 - Found $$$NOTE1.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/$$$NOTE1
+2023-08-06 06:09:45.823016 - Found $$$NOTE2.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/$$$NOTE2
+2023-08-06 06:09:45.824010 - Found $$DOCO.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/$$DOCO
+2023-08-06 06:09:45.825241 - Found #JISTAMP.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/#JISTAMP
+2023-08-06 06:09:45.826165 - Found @FILE632.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/@FILE632
+2023-08-06 06:09:45.827181 - Found EMAILXMP.jcl (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/EMAILXMP
+2023-08-06 06:09:45.828103 - Found TOASCII.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/TOASCII
+2023-08-06 06:09:45.829058 - Found TOASCILF.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/TOASCILF
+2023-08-06 06:09:45.830079 - Found TOBASE64.txt (text/plain) in CBT.V505.FILE632.PDS, moved to PDS/TOBASE64
